@@ -83,3 +83,7 @@ TAGS
 python2
 python3
 scratch
+
+venv
+venv/*
+.vscode/settings.json
